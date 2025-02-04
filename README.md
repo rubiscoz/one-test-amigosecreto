@@ -14,9 +14,6 @@ Este é um pequeno projeto em JavaScript puro, que permite aos usuários adicion
 
 ✅ Exibir o nome do amigo sorteado
 
-📷 Demonstração
-
-
 📂 Como Usar
 
 1️⃣ Clone este repositório no seu computador:
@@ -33,4 +30,5 @@ git clone https://github.com/rubiscoz/one-test-amigosecreto
 
 🔹 Adicionar a funcionalidade de remover nomes da lista
 
+📷 Demonstração
 
