@@ -3,6 +3,7 @@
 📌 Sobre o projeto
 
 Este é um pequeno projeto em JavaScript puro, que permite aos usuários adicionarem nomes de amigos a uma lista e, posteriormente, realizar o sorteio de um "Amigo Secreto" de forma aleatória.
+
 🚀 Funcionalidades
 
 ✅ Adicionar amigos a uma lista
