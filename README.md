@@ -6,8 +6,11 @@ Este é um pequeno projeto em JavaScript puro, que permite aos usuários adicion
 🚀 Funcionalidades
 
 ✅ Adicionar amigos a uma lista
+
 ✅ Atualizar a lista de amigos em tempo real
+
 ✅ Sortear um amigo aleatoriamente
+
 ✅ Exibir o nome do amigo sorteado
 
 📷 Demonstração
