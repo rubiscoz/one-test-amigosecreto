@@ -24,6 +24,7 @@ Este é um pequeno projeto em JavaScript puro, que permite aos usuários adicion
 git clone https://github.com/rubiscoz/one-test-amigosecreto
 
 2️⃣ Abra o arquivo index.html no navegador
+
 3️⃣ Adicione nomes e clique no botão para sortear
 
 
