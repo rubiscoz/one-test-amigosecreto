@@ -32,5 +32,3 @@ git clone https://github.com/rubiscoz/one-test-amigosecreto
 
 🔹 Adicionar a funcionalidade de remover nomes da lista
 
-📷 Demonstração
-
