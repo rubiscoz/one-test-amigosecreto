@@ -24,6 +24,8 @@ git clone https://github.com/rubiscoz/one-test-amigosecreto
 
 3️⃣ Adicione nomes e clique no botão para sortear
 
+ link para uso web: https://amigo-secreto-drab-omega.vercel.app/
+
 🛠 Melhorias Futuras
 
 🔹 Criar um sistema de "não sortear a si mesmo"
